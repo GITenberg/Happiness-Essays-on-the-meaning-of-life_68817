@@ -1,0 +1,35 @@
+_repo: Happiness-Essays-on-the-meaning-of-life_68817
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Peabody, Francis Greenwood
+    birthdate: 1847
+    deathdate: 1936
+    gutenberg_agent_id: '26436'
+    url: http://www.gutenberg.org/2009/agents/26436
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Greenwood_Peabody
+creator:
+  author:
+    agent_name: Hilty, Karl
+    gutenberg_agent_id: '54958'
+    url: http://www.gutenberg.org/2009/agents/54958
+description: ''
+gutenberg_issued: '2022-08-23'
+identifiers:
+  gutenberg: '68817'
+language: en
+pgterms:marc904: https://archive.org/details/happinessessayso00hiltiala
+pgterms:marc905: 20210923104721hilty
+pgterms:marc906: '1903'
+pgterms:marc907: US
+production_note: Turgut Dincer, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :Macmillan,1903.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Happiness: Essays on the meaning of life'
+url: http://www.gutenberg.org/ebooks/68817
